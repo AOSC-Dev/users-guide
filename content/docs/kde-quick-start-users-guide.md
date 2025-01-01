@@ -1,17 +1,13 @@
 ---
 title: KDE桌面环境常用操作
-
+weight: 3
+toc: true
 ---
 
-# KDE 桌面常用操作
-
-[TOC]
-
-## 介绍
 
 KDE，即 K 桌面环境，全称 K Desktop Environment。它是一款著名的运行于 Linux、Unix 以及 BSD 等类 UNIX 操作系统上的自由图形桌面环境，整个桌面环境均使用 Qt 程序库开发。KDE 是 Linux 操作系统上流行的桌面环境之一。
 
-安同 OS 桌面版使用了 KDE 桌面环境。
+安同 OS 桌面版搭载 KDE 桌面环境。
 
 ## 登录界面
 
@@ -19,7 +15,7 @@ KDE，即 K 桌面环境，全称 K Desktop Environment。它是一款著名的�
 
 ![image](https://hackmd.io/_uploads/Hy146Qyp0.png)
 
-<p style="font-size: 1.5rem;font-style: italic;text-align: center;">
+<p style="font-size: 0.8rem;text-align: center;">
 登录界面
 </p>
 
@@ -49,7 +45,7 @@ KDE，即 K 桌面环境，全称 K Desktop Environment。它是一款著名的�
 
 ![image](https://hackmd.io/_uploads/BylLkEkTR.png)
 
-<p style="font-size: 1.5rem;font-style: italic;text-align: center;">
+<p style="font-size: 0.8rem;text-align: center;">
 桌面会话选择菜单
 </p>
 
@@ -61,7 +57,7 @@ KDE，即 K 桌面环境，全称 K Desktop Environment。它是一款著名的�
 
 ![image](https://hackmd.io/_uploads/SJzokE1TR.png)
 
-<p style="font-size: 1.5rem;font-style: italic;text-align: center;">
+<p style="font-size: 0.8rem;text-align: center;">
 KDE Plasma 的默认启动屏幕
 </p>
 
@@ -103,7 +99,7 @@ KDE Plasma 的默认启动屏幕
 
 ![aosc-kde-desktop](https://hackmd.io/_uploads/rkyuzEJTA.jpg)
 
-<p style="font-size: 1.5rem;font-style: italic;text-align: center;">
+<p style="font-size: 0.8rem;text-align: center;">
 安同 OS 的 KDE 桌面
 </p>
 
@@ -126,7 +122,7 @@ KDE 面板内的组件主要包含主菜单、快速启动器、系统托盘、�
 
 ![image](https://hackmd.io/_uploads/ryEs3OZaR.png)
 
-<p style="font-size: 1.5rem;font-style: italic;text-align: center;">
+<p style="font-size: 0.8rem;text-align: center;">
 KDE 面板上的任务管理器（图底部）
 </p>
 
@@ -146,7 +142,7 @@ KDE 面板上的任务管理器（图底部）
 
 ![image](https://hackmd.io/_uploads/Hk7DRdWp0.png)
 
-<p style="font-size: 1.5rem;font-style: italic;text-align: center;">
+<p style="font-size: 0.8rem;text-align: center;">
 托盘区域、时钟和 “显示桌面” 按钮
 </p>
 
@@ -186,7 +182,7 @@ KDE 的时钟显示为两行，第一行为当前时间，第二行为今日的�
 
 ![audio](https://hackmd.io/_uploads/By7eMiZ6A.png)
 
-<p style="font-size: 1.5rem;font-style: italic;text-align: center;">
+<p style="font-size: 0.8rem;text-align: center;">
 控制音量
 </p>
 
@@ -218,7 +214,7 @@ KDE 的时钟显示为两行，第一行为当前时间，第二行为今日的�
 
 如果您要连接 U 盘并管理 U 盘上的文件，在您连接 U 盘后，    KDE 会自动弹出可移动设备挂载界面：
 ![upan](https://hackmd.io/_uploads/rJIJgpZTC.png)
-<p style="font-size: 1.5rem;font-style: italic;text-align: center;">
+<p style="font-size: 0.8rem;text-align: center;">
 “磁盘和设备”界面
 </p>
 此时您可以看到您的 U 盘，点击您 U 盘右侧的“挂载并打开”，文件管理器会自动启动。
@@ -236,7 +232,7 @@ Dolphin 是 KDE 桌面环境中的一个强大而灵活的文件管理器。Dolp
 如下图所示，展示了启动Dolphin后的界面。
 ![Dolphin](https://hackmd.io/_uploads/BkbcGpb60.png)
 
-<p style="font-size: 1.5rem;font-style: italic;text-align: center;">
+<p style="font-size: 0.8rem;text-align: center;">
 Dolphin 的界面
 </p>
 
@@ -339,7 +335,7 @@ KFind 是 KDE 提供的强大的文件查找工具，能够查找计算机、网
 
 ![image](https://hackmd.io/_uploads/SyTgggl0A.png)
 
-<p style="font-size: 1.5rem;font-style: italic;text-align: center;">
+<p style="font-size: 0.8rem;text-align: center;">
 “解压” 对话框
 </p>
 
@@ -379,7 +375,7 @@ Spectacle 截图工具界面如下图所示。
 
 ![image](https://hackmd.io/_uploads/ByF2Hj0pR.png)
 
-<p style="font-size: 1.5rem;font-style: italic;text-align: center;">
+<p style="font-size: 0.8rem;text-align: center;">
 Spectacle 截图工具界面
 </p>
 
@@ -419,6 +415,6 @@ Spectacle 启动后，就会截取整个屏幕。您可以忽略或者保存这�
 
 ![image](https://hackmd.io/_uploads/rkFVOgl0C.png)
 
-<p style="font-size: 1.5rem;font-style: italic;text-align: center;">
+<p style="font-size: 0.8rem;text-align: center;">
 Spectactle 快捷键配置
 </p>
